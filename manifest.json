@@ -2,6 +2,7 @@
   "name": "Переводы",
   "short_name": "Переводы",
   "description": "Быстрый трекер расходов",
+  "scope": "/transfers/",
   "start_url": "/transfers/",
   "display": "standalone",
   "background_color": "#0f0f1a",
